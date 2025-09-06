@@ -290,25 +290,6 @@ CREATE TABLE persons (
    - Check Kotlin version compatibility
    - Verify all dependencies
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- Android Room team for the excellent database library
-- SQLCipher team for encryption capabilities
-- Jetpack Compose team for modern UI toolkit
-- Material Design team for design guidelines
-
 ## 📞 Support
 
 For questions or issues:
